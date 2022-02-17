@@ -1,0 +1,15 @@
+C:/Modelsim_projects/min_max_finder_part3_M3/min_max_finder_part3_M3.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/min_max_finder_part3_M3/min_max_finder_part3_M3.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module min_max_finder_part3_M3
+
+Top level modules:
+	min_max_finder_part3_M3
+
+} {} {}} C:/Modelsim_projects/min_max_finder_part3_M3/min_max_finder_part3_M3_tb.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/min_max_finder_part3_M3/min_max_finder_part3_M3_tb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module min_max_finder_part3_M3_tb
+
+Top level modules:
+	min_max_finder_part3_M3_tb
+
+} {} {}}

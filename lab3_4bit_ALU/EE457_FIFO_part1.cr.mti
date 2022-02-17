@@ -1,0 +1,17 @@
+C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v {0 {vlog -work work -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Error: (vlog-13036) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v(1): near "--": Operator only allowed in SystemVerilog.
+** Error: (vlog-13069) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v(1): near "--": syntax error, unexpected --, expecting class.
+
+} {3.0 5.0} {}} C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v {0 {vlog -work work -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module fifo_reg_array_sc
+** Error: C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(104): (vlog-2110) Illegal reference to memory "Reg_Array".
+** Error: C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(104): Illegal array access into "Reg_Array"
+** Error: C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(104): Illegal LHS of assignment.
+** Error (suppressible): (vlog-2997) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(104): Cannot assign a packed type 'reg[DATA_WIDTH-1:0]' to an unpacked type 'reg[DATA_WIDTH-1:0] $[(2**ADDR_WIDTH)-1:0]'.
+** Error: C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(112): (vlog-2110) Illegal reference to net "data_out".
+** Error: C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(112): Illegal array access into "Reg_Array"
+** Error (suppressible): (vlog-13215) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v(112): Cannot assign an unpacked type 'reg[DATA_WIDTH-1:0] $[(2**ADDR_WIDTH)-1:0]' to a packed type 'reg[DATA_WIDTH-1:0]'.
+
+} {4.0 7.0 8.0 10.0} {}}

@@ -1,0 +1,175 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modelsim_projects/ee457_lab3_4bit_ALU
+T_opt
+!s110 1644967216
+V@8Hj8nIjchhWODIVg]2iz2
+04 7 7 work fifo_tb behv_tb 1
+=1-04421ad18bf1-620c3530-26d-53c8
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6e;65
+Econsumer
+Z1 w1515332038
+Z2 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 dC:/Modelsim_projects/EE457_FIFO_part1
+Z8 8consumer.vhd
+Z9 Fconsumer.vhd
+l0
+L43
+V3R];fbe360?om84iJG>8V2
+!s100 U@l<mn_DB>^8AllCaefXD0
+Z10 OL;C;10.6e;65
+32
+Z11 !s110 1644967215
+!i10b 1
+Z12 !s108 1644967215.000000
+Z13 !s90 -reportprogress|300|consumer.vhd|+acc|
+Z14 !s107 consumer.vhd|
+!i113 0
+Z15 o+acc
+Z16 tExplicit 1 CvgOpt 0
+Abehv
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 consumer 0 22 3R];fbe360?om84iJG>8V2
+l63
+L53
+VNBefo^@Sado4?5>;VIKRO3
+!s100 UKiOoI2lez=fGdaPd?`9C3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 0
+R15
+R16
+vfifo_reg_array_sc
+R11
+!i10b 1
+!s100 2:d5m=3:_6P6a6B2mz38D3
+I[V4g6P[eb_59FnmT`H]NS3
+VDg1SIo80bB@j0V0VzS_@n1
+R7
+w1644967203
+8fifo_reg_array_sc_n_bit_pointers_exercise.v
+Ffifo_reg_array_sc_n_bit_pointers_exercise.v
+L0 41
+OL;L;10.6e;65
+r1
+!s85 0
+31
+R12
+!s107 fifo_reg_array_sc_n_bit_pointers_exercise.v|
+!s90 -reportprogress|300|fifo_reg_array_sc_n_bit_pointers_exercise.v|+acc|
+!i113 0
+o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+Efifo_tb
+Z17 w1515332517
+Z18 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R2
+R4
+R5
+R6
+R7
+Z19 8fifo_reg_array_n_bit_pointers_sc_tb.vhd
+Z20 Ffifo_reg_array_n_bit_pointers_sc_tb.vhd
+l0
+L47
+VMdXX`4c6fOLKFX0djjNF61
+!s100 P3Z`WIDN5D^kV72^k8J=93
+R10
+32
+R11
+!i10b 1
+R12
+Z21 !s90 -reportprogress|300|fifo_reg_array_n_bit_pointers_sc_tb.vhd|+acc|
+Z22 !s107 fifo_reg_array_n_bit_pointers_sc_tb.vhd|
+!i113 0
+R15
+R16
+Abehv_tb
+R18
+R2
+R4
+R5
+R6
+DEx4 work 7 fifo_tb 0 22 MdXX`4c6fOLKFX0djjNF61
+l105
+L52
+VIR?n?lfC;iGTS^]:4<BzL2
+!s100 1k?cXYzmV6Hf[8CzNbIK;1
+R10
+32
+R11
+!i10b 1
+R12
+R21
+R22
+!i113 0
+R15
+R16
+Eproducer
+Z23 w1515332677
+R2
+R3
+R4
+R5
+R6
+R7
+Z24 8producer.vhd
+Z25 Fproducer.vhd
+l0
+L43
+V]123EGd_<EzjPQefYKDP@2
+!s100 he71V3SUX[8054c4zZaLb1
+R10
+32
+R11
+!i10b 1
+R12
+Z26 !s90 -reportprogress|300|producer.vhd|+acc|
+Z27 !s107 producer.vhd|
+!i113 0
+R15
+R16
+Abehv
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 producer 0 22 ]123EGd_<EzjPQefYKDP@2
+l68
+L53
+V1OIOAOL8ZP3JdTYKJN8z?0
+!s100 n=cLEV_M?fUB7M0_L;kIM0
+R10
+32
+R11
+!i10b 1
+R12
+R26
+R27
+!i113 0
+R15
+R16

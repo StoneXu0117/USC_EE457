@@ -1,0 +1,53 @@
+C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.vhd
+Model Technology ModelSim SE-64 vcom 10.6e Compiler 2018.06 Jun 23 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_textio
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity fifo_tb
+-- Compiling architecture behv_tb of fifo_tb
+
+} {} {}} C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v {0 {vlog -work work -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+** Error: (vlog-13036) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v(1): near "--": Operator only allowed in SystemVerilog.
+** Error: (vlog-13069) C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_n_bit_pointers_sc_tb.v(1): near "--": syntax error, unexpected --, expecting class.
+
+} {3.0 5.0} {}} C:/Modelsim_projects/EE457_FIFO_part1/producer.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/producer.vhd
+Model Technology ModelSim SE-64 vcom 10.6e Compiler 2018.06 Jun 23 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Compiling entity producer
+-- Compiling architecture behv of producer
+
+} {} {}} C:/Modelsim_projects/EE457_FIFO_part1/consumer.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/consumer.vhd
+Model Technology ModelSim SE-64 vcom 10.6e Compiler 2018.06 Jun 23 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Compiling entity consumer
+-- Compiling architecture behv of consumer
+
+} {} {}} C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_bit_pointers_exercise.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module fifo_reg_array_sc
+
+Top level modules:
+	fifo_reg_array_sc
+
+} {} {}} C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_plus_one_bit_pointers.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/EE457_FIFO_part1/fifo_reg_array_sc_n_plus_one_bit_pointers.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module fifo_reg_array_sc
+
+Top level modules:
+	fifo_reg_array_sc
+
+} {} {}}
