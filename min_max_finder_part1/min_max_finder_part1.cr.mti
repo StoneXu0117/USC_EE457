@@ -1,0 +1,20 @@
+C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1_tb.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1_tb.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module min_max_finder_part1_tb
+
+Top level modules:
+	min_max_finder_part1_tb
+
+} {} {}} C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1.v {1 {vlog -work work -vopt -stats=none C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1.v
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module min_max_finder_part1
+
+Top level modules:
+	min_max_finder_part1
+
+} {} {}} C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1.vhd
+Model Technology ModelSim SE-64 vcom 10.6e Compiler 2018.06 Jun 23 2018
+-- Loading package STANDARD
+** Error (suppressible): C:/Modelsim_projects/min_max_finder_part1/min_max_finder_part1.vhd(2): (vcom-1491) Empty source files.
+
+} {} {}}

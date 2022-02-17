@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modelsim_projects/middle_finder
+vmin_max_finder_part1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 zjZHXZ6KR@_I0XYmZBonW1
+IibS1fDz5<`KTjeYDmIJh:2
+Z1 dC:/Modelsim_projects/min_max_finder_part1
+w1642643627
+8min_max_finder_part1.v
+Fmin_max_finder_part1.v
+L0 39
+Z2 OL;L;10.6e;65
+Z3 !s108 1642739123.000000
+!s107 min_max_finder_part1.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part1.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vmin_max_finder_part1_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 keUg?Ya`A:NUTVbzSMIl_1
+I[<MFfoLC09LhI6iZzZ[4@2
+R1
+w1515330125
+8min_max_finder_part1_tb.v
+Fmin_max_finder_part1_tb.v
+Z6 L0 38
+R2
+R3
+!s107 min_max_finder_part1_tb.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part1_tb.v|
+!i113 0
+R4
+R5
+vmin_max_finder_part2
+Z7 !s110 1643253168
+!i10b 1
+!s100 aHLQBlb`c5OYl0:ceVWW:2
+IZ=8W9mg6k7fGnUDRaUS4Z2
+R0
+R1
+w1643252839
+8C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2.v
+FC:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2.v
+R6
+R2
+r1
+!s85 0
+31
+Z8 !s108 1643253168.000000
+!s107 C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vmin_max_finder_part2_tb
+R7
+!i10b 1
+!s100 ::6@XIBT7RP_FAeVe4<a50
+I2I]mdHj^CQ?Y^aKKBOJi80
+R0
+R1
+w1515330202
+8C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2_tb.v
+FC:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2_tb.v
+R6
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/min_max_finder_part2/min_max_finder_part2_tb.v|
+!i113 0
+R9
+R5
