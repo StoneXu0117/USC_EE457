@@ -1,0 +1,218 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog
+vcomp_station_P1
+Z1 !s110 1648925046
+!i10b 1
+!s100 Vz5FfK1MEE2XZ9>f:PDHm2
+I5GZTTZkkj9L[>Of9j6Xm`1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1515373337
+Z4 8C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+Z5 FC:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_components.v
+L0 190
+Z6 OL;L;10.6e;65
+r1
+!s85 0
+31
+Z7 !s108 1648925046.000000
+Z8 !s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_components.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_components.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0
+ncomp_station_@p1
+vcomp_station_P3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 7HgRn>=i[QoEBllF[e=WH0
+IN3U=3>QMVD<:mamDbE_Yj3
+R0
+R3
+R4
+R5
+L0 214
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+ncomp_station_@p3
+vee457_lab7_P3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 S5E6L@jb2a8@Vn]UAiN>z1
+IPPjCK3Y?Dng86W7z:zS;o2
+R0
+w1648923049
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3.v
+L0 56
+R6
+R7
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3.v|
+!i113 0
+R10
+R11
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 EM0E?Y1zn^QO5>j0i?Wf]2
+If92m;i:`Y5HICbHWXgn7^3
+R0
+w1515379104
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3_tb.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3_tb.v
+L0 36
+R6
+R7
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog/ee457_lab7_P3_tb.v|
+!i113 0
+R10
+R11
+nee457_lab7_@p3_tb
+vins_mem
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 GRake@f@a:>6:_X;YD3@Q2
+ImEWjhgGjL1fI_JlWD1<]e1
+R0
+R3
+R4
+R5
+L0 52
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vpc
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 hGkJ^c0OUo7kfKbGE0HLW0
+If<GfZb;C6=KNQD5HKbD<b2
+R0
+R3
+R4
+R5
+L0 37
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vpipe_if_id_P1
+R1
+!i10b 1
+!s100 2]oZT]JG6cohB4oNP7<XU2
+IYN83e[KA8D@Po9Ao5Mi2k1
+R2
+R0
+R3
+R4
+R5
+L0 60
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11
+npipe_if_id_@p1
+vpipe_if_id_P3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 j649i8zfCU8_>AeRP;]Re0
+IhXlgVZ2[FzaBobLl9iJH11
+R0
+R3
+R4
+R5
+L0 89
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+npipe_if_id_@p3
+vpipe_reg2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Kae;TGGPdd]hKZ=GzPD820
+IF@7[Tjm2O838;>NJ6Fc8_1
+R0
+R3
+R4
+R5
+L0 140
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
+vregister_file
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 8nI6B4a[8K80JV9Xm^dWo0
+IS77RWzn];jRNE5[b0H_XK1
+R0
+R3
+R4
+R5
+L0 115
+R6
+R7
+R8
+R9
+!i113 0
+R10
+R11
