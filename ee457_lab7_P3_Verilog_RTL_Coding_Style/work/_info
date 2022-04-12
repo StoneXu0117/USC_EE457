@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modelsim_projects/ee457_lab7_P3_Verilog/ee457_lab7_P3_Verilog
+T_opt
+!s110 1649405460
+VUG6FJ=09FDh=g^oa:]JX;3
+04 13 4 work ee457_lab7_P3 fast 0
+=1-04421ad18bf1-624fee14-3-5f64
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6e;65
+R0
+T_opt1
+!s110 1649406653
+VNJ8V:f?iVOJEMTO:zH6L@1
+04 16 4 work ee457_lab7_P3_tb fast 0
+=1-04421ad18bf1-624ff2bd-2b5-4288
+R1
+R2
+n@_opt1
+R3
+R0
+vee457_lab7_P3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 hoKmaiVR?zRNKH[]lZ6TC3
+ID<GJGhkk3Ld4Xc0?FlLn`0
+Z5 dC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style
+w1649405264
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+L0 15
+Z6 OL;L;10.6e;65
+Z7 !s108 1649408171.000000
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z9WPB]1=oc4>?7KcB3^mL3
+I2lC0gV7;=JP4_`M?_ne?O3
+R5
+w1352481242
+8C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v
+FC:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v
+L0 9
+R6
+R7
+!s107 C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Modelsim_projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v|
+!i113 0
+R8
+R2
+nee457_lab7_@p3_tb
